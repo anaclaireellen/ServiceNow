@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="38955f97736fc3501e82fcb24ab8b74a" sys_domain="global" table="x_2228968_loaner_1_loaner_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-01 06:45:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>85955f97736fc3501e82fcb24ab8b74f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2228968_loaner_1_loaner_request" name="x_2228968_loaner_1_loaner_request" sys_domain="global" view="4b08d271082003100a22e9371c04a40b">38955f97736fc3501e82fcb24ab8b74a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_2228968_loaner_1_loaner_request" sys_domain="global" view="4b08d271082003100a22e9371c04a40b">64951f97736fc3501e82fcb24ab8b7e2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-01 06:45:27</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-01 13:17:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b3f6c6f73a707501e82fcb24ab8b70a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2228968_loaner_1_loaner_request" name="x_2228968_loaner_1_loaner_request" sys_domain="global" view="4b08d271082003100a22e9371c04a40b">38955f97736fc3501e82fcb24ab8b74a</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_2228968_loaner_1_loaner_request" sys_domain="global" view="4b08d271082003100a22e9371c04a40b">223f2c6f73a707501e82fcb24ab8b762</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-01 13:29:17</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_2228968_loaner_1_loaner_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-01 06:45:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>38955f97736fc3501e82fcb24ab8b74a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2228968_loaner_1_loaner_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Request" source="x_2228968_loaner_1">54025c53732b83501e82fcb24ab8b7c4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">54025c53732b83501e82fcb24ab8b7c4</sys_scope>
+            <sys_update_name>sys_ui_form_sections_38955f97736fc3501e82fcb24ab8b74a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-01 06:45:26</sys_updated_on>
+            <sys_user/>
+            <view display_value="Self Service" name="ess">4b08d271082003100a22e9371c04a40b</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
